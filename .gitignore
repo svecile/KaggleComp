@@ -128,4 +128,5 @@ ranzcr-clip-catheter-line-classification/
 *.jpg
 *.tfrec
 
-
+X.pickle
+y.pickle
