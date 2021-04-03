@@ -1,8 +1,8 @@
-## Training the CNN model on only 500 images 
+## Training the CNN model on only 500 images -> folder "500_data" in Driive
 
-* Trained on system's CPU
+* Trained on system's CPU and GPU
 
-* 500 chosen images by random (my local file system: <em>KaggleComp/ranzcr_clip_catheter_line_classification/500 images</em>)
+* 500 chosen images by random (my Drive path: <em>Drive/train/500_data</em>)
 
 
 <ol>
