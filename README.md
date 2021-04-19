@@ -19,11 +19,13 @@
 </ol>
 
 <strong>Tina Files</strong>
-<p>The CNN model</p>
+<p>The CNN models in CNN folder</p>
 
 <ol>
-  <li>load_data_Tina_2.ipynb</li>
-  <li>Catheter_Tina_2.ipynb</li>
+  <li>load_data_CNN_500.ipynb</li>
+  <li>Catheter_CNN_500.ipynb</li>
+  <li>load_data_CNN_5411.ipynb</li>
+  <li>Catheter_CNN_5411.ipynb</li>
 </ol>
 
 
