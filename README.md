@@ -1,6 +1,6 @@
 ## KaggleComp
 
-<strong>Spencer Files:</strong>
+<strong>Spencer Files</strong>
 <ol>
   <li>make_folds.ipynb</li>
 </ol>
@@ -18,8 +18,8 @@
   <li>Catheter_Multiple.ipynb</li>
 </ol>
 
-<strong>Tina Files:</strong>
-<strong>The CNN model:</strong>
+<strong>Tina Files</strong>
+<p>The CNN model:</p>
 
 <ol>
   <li>load_data_Tina_2.ipynb</li>
