@@ -19,7 +19,7 @@
 </ol>
 
 <strong>Tina Files</strong>
-<p>The CNN model:</p>
+<p>The CNN model</p>
 
 <ol>
   <li>load_data_Tina_2.ipynb</li>
