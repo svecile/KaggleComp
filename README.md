@@ -5,14 +5,14 @@
   <li>make_folds.ipynb</li>
 </ol>
 
-<strong>The EfficinetNetB0 combined label model:</strong>
+<p>The EfficinetNetB0 combined label model</p>
 
 <ol>
   <li>load_data_folds.ipynb</li>
   <li>Catheter.ipynb</li>
 </ol>
 
-<strong>The EfficinetNetB0 Distributed model:</strong>
+<p>The EfficinetNetB0 Distributed model</p>
 <ol>
   <li>load_data_multi_models.ipynb</li>
   <li>Catheter_Multiple.ipynb</li>
